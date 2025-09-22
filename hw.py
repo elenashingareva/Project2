@@ -1,0 +1,2 @@
+print("Ellina krutaya!")
+
